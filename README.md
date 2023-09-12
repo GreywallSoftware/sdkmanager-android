@@ -1,4 +1,7 @@
 # Android SDK in snap-store
+
+Forked in case to build our own snap if the existing one changes the JDK version
+
 [![androidsdk](https://snapcraft.io//androidsdk/badge.svg)](https://snapcraft.io/androidsdk)
 [![androidsdk](https://snapcraft.io//androidsdk/trending.svg?name=0)](https://snapcraft.io/androidsdk)
 
